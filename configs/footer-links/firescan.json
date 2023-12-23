@@ -1,0 +1,44 @@
+[
+	{
+		"title": "Firechain Products",
+		"links": [
+			{
+				"text": "Staking",
+				"url": "https://donaswap.com"
+			},
+      {
+				"text": "Launchpad Firechain",
+				"url": "https://www.ico.thefirechain.com"
+			},
+			{
+				"text": "Faucet Testnet",
+				"url": "https://faucet.thefirechain.com"
+			},
+			{
+				"text": "Documentation",
+				"url": "https://docs.thefirechain.com"
+			},
+      {
+				"text": "FAQ",
+				"url": "https://www.thefirechain.com/faq"
+			}
+		]
+	},
+	{
+		"title": "Community",
+		"links": [
+			{
+				"text": "Twitter",
+				"url": "https://twitter.com/thefirechain"
+			},
+			{
+				"text": "Discord",
+				"url": "https://discord.com/invite/SRgbpaM62U"
+			},
+			{
+				"text": "Telegram",
+				"url": "https://t.me/thefirechain"
+			}
+		]
+	}
+]
