@@ -1,13 +1,13 @@
 [
 	{
-		"title": "Firechain Products",
+		"title": "Products",
 		"links": [
 			{
 				"text": "Staking",
-				"url": "https://donaswap.com"
+				"url": "#"
 			},
       {
-				"text": "Launchpad Firechain",
+				"text": "Firechain ICO",
 				"url": "https://www.ico.thefirechain.com"
 			},
 			{
@@ -25,19 +25,11 @@
 		]
 	},
 	{
-		"title": "Community",
+		"title": "Ecosystem",
 		"links": [
 			{
-				"text": "Twitter",
-				"url": "https://twitter.com/thefirechain"
-			},
-			{
-				"text": "Discord",
-				"url": "https://discord.com/invite/SRgbpaM62U"
-			},
-			{
-				"text": "Telegram",
-				"url": "https://t.me/thefirechain"
+				"text": "Exchange",
+				"url": "https://donaswap.com"
 			}
 		]
 	}
