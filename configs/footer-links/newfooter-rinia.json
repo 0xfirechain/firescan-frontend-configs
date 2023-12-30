@@ -1,0 +1,36 @@
+[
+	{
+		"title": "Products",
+		"links": [
+			{
+				"text": "Staking",
+				"url": "https://rinia.firescan.io"
+			},
+      {
+				"text": "Firechain ICO",
+				"url": "https://www.ico.thefirechain.com"
+			},
+			{
+				"text": "Faucet Testnet",
+				"url": "https://faucet.thefirechain.com"
+			},
+			{
+				"text": "Documentation",
+				"url": "https://docs.thefirechain.com"
+			},
+      {
+				"text": "FAQ",
+				"url": "https://www.thefirechain.com/faq"
+			}
+		]
+	},
+	{
+		"title": "Ecosystem",
+		"links": [
+			{
+				"text": "Exchange",
+				"url": "https://donaswap.com"
+			}
+		]
+	}
+]
