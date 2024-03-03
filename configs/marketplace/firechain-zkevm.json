@@ -1,0 +1,18 @@
+[
+	{
+		"author": "Fire Station",
+		"id": "donaswap",
+		"title": "DonaSwap",
+		"description": "DonaSwap is the primary multi-chain dex for firechain Networks which sprouted by the DonaSwap (DONA) Token",
+		"shortDescription": "DonaSwap is the primary multi-chain dex for firechain Networks which sprouted by the DonaSwap (DONA) Token",
+		"site": "https://donaswap.io",
+		"url": "https://donaswap.io",
+		"external": true,
+		"internalWallet": false,
+		"categories": [
+			"Swaps",
+			"Liquid Staking"
+		],
+		"logo": "https://donaswap.io/logo.png"
+	}
+]
